@@ -25,7 +25,18 @@ Whether you're just starting or diving deep, this hub has something for you.
 ---
 
 ## 📊 Data Science
-Something here
+
+| Title                                     | Content Type        | Link                                                                                  | Description |
+|------------------------------------------------------|-----------------------|---------------------------------------------------------------------------------------| -------------------------------------------------------------------|
+| Data Science Course | YouTube Playlist | [Link](https://youtube.com/playlist?list=PLeo1K3hjS3us_ELKYSj_Fth2tIEkdKXvV&si=kfUrwkWIlRm7C4eC) | A comprehensive Data Science course by CodeBasics covering fundamental concepts and practical applications |
+| Python Programming | YouTube Playlist | [Link](https://youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&si=1QXLfFlVJ_81gj9v) | Complete Python programming tutorial series covering basics to advanced concepts |
+| Deep Learning with TensorFlow | YouTube Playlist | [Link](https://youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO&si=pmvNZebby9D2FMBj) | Deep Learning tutorial series using TensorFlow framework for practical ML applications |
+| Deep Learning with PyTorch | YouTube Playlist | [Link](https://youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4&si=DjCAKsd9kQ1wBRmE) | Deep Learning course focusing on PyTorch framework for neural network development |
+| MLOps by DeepLearningAI | YouTube Playlist | [Link](https://youtube.com/playlist?list=PLkDaE6sCZn6GMoA0wbpJLi3t34Gd8l0aK&si=ZaGf9IlE5su-qauu) | MLOps fundamentals and best practices for deploying machine learning models in production |
+| MLOps ZoomCamp '24 | YouTube Playlist | [Link](https://youtube.com/playlist?list=PL3MmuxUbc_hJD0AVR2Un_GSVGMpotGM2t&si=t8hkgyVE76i1Yen-) | Comprehensive MLOps bootcamp covering the entire ML operations pipeline |
+| MLOps Course | YouTube Playlist | [Link](https://youtube.com/playlist?list=PLupK5DK91flV45dkPXyGViMLtHadRr6sp&si=6Wp2MvL1S97K-Pbu) | Complete MLOps course covering model deployment, monitoring, and maintenance |
+| Python Project for Data Science | Course | [Link](https://www.coursera.org/learn/python-project-for-data-science) | Hands-on Coursera course focusing on practical Python applications in Data Science projects |
+| Deep Learning Course | YouTube Playlist | [Link](https://youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&si=yNBFFjF2To9wg67L) | Comprehensive Deep Learning course covering neural networks and advanced ML concepts |
 
 ---
 
